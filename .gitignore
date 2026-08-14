@@ -1,0 +1,26 @@
+# Datasets and large files
+*.csv
+*.npy
+*.npz
+*.pkl
+*.h5
+*.pt
+*.pth
+*.bin
+data/
+datasets/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Model checkpoints (optional, keep if small)
+checkpoints/
+*.ckpt
+
+# Virtual environments
+.venv/
+venv/
+env/
